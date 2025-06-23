@@ -1,16 +1,19 @@
-# Triple Peaks Coffee Shop
+# Alex's Bean Machine
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+A website built for the TripleTen Software Engineering program.  
+Created with **HTML** and **CSS**, following best practices for structure and maintainability.
 
-## Project features
+## Features
 
 - Semantic HTML5
-- Flexbox
-- Positioning
-- Flat BEM file structure
-- A custom form
-- CSS animation and transform
+- Flexbox layout
+- Flat BEM structure
+- Custom form
+- CSS animations and transforms
 
-## Plan on improving the project
+## Future Improvements
 
-Add your ideas here :)
+- Add JavaScript for interactivity
+- Integrate a backend for real data
+
+> A solid foundation for a project built to evolve — respecting traditional practices, while looking ahead to the future.
