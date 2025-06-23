@@ -35,6 +35,12 @@
   text-decoration: none;
   display: flex;
   align-items: center;
+  transition: opacity 0.3s;
+  cursor: pointer;
+}
+
+.footer__social-link:hover {
+  opacity: 70%;
 }
 
 .footer__social-icon {
