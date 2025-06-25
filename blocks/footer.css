@@ -14,10 +14,9 @@
   height: 39px;
 }
 
-.footer__column {
-}
-
 .footer__social-heading {
+  font-size: 16px;
+  line-height: 20px;
   margin: 0 0 20px;
 }
 
